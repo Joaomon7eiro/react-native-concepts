@@ -66,6 +66,7 @@ export default function App() {
                   testID={`like-button-${repo.id}`}
                 >
                   <Text style={styles.buttonText}>Curtir</Text>
+                  
                 </TouchableOpacity>
               </View>
             );
